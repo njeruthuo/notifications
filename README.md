@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/njeruthuo/notifications)
-- Live Site URL: [Vercel deployment](notifications-dialvnh2d-julius-njerus-projects.vercel.app)
+- GitHub: [GitHub](https://github.com/njeruthuo/notifications)
+- Vercel deployment: [Vercel deployment](notifications-dialvnh2d-julius-njerus-projects.vercel.app)
 
 ## My process
 
